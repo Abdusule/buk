@@ -1,0 +1,18 @@
+Basics
+Setting up all required tools
+Variable
+Data Types
+Mathematical Operators
+Conditional Statement
+casting
+Getting input from the User
+fuction and parameters
+
+
+
+datatypes
+
+String
+bool
+number = types= int, float 
+sequence
